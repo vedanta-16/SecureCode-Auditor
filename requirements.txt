@@ -1,0 +1,7 @@
+Flask>=3.0,<4.0
+Flask-WTF>=1.2,<2.0
+python-dotenv>=1.0,<2.0
+pytest>=8.0,<10.0
+bandit>=1.7
+semgrep>=1.90
+pip-audit>=2.7
